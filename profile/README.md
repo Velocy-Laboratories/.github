@@ -7,3 +7,5 @@ Software is a big market in our world and much can be done wrong. Starting off i
 
 ### I have a cool idea!
 That's cool! If you match our current branche and want us to know about your idea and how we could solve a specific problem with it, don't hesitate to write your idea into an email. (hey@velocy.cloud)
+
+> Our domains you can trust: velocy.cloud, velocy.xyz, velocy.dev
